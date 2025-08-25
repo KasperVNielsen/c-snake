@@ -12,3 +12,18 @@ void gotoxy(int x,int y){
     SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), coord);
 
 }
+
+void Move(){
+
+}
+void Food(){
+
+}
+
+int score(){
+
+}
+
+void delay(long double k){
+    
+}
